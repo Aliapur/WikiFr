@@ -1,7 +1,7 @@
 # WikiFr - Pourquoi ce répertoire ?
 Ce répertoire a été créé pour accueillir le wiki traduit en français du wiki principal, en anglais, de la plateforme ouverte dédiée à la réutilisation des pneus en fin de vie.
 
-Accèdez au wiki français sur l'onglet Wiki ci-dessus.
+[Accèdez au wiki français](https://github.com/Aliapur/WikiFr/wiki)
 
 [Accèdez au wiki complet en anglais](https://github.com/Aliapur/Wiki/wiki)
 
